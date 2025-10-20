@@ -82,8 +82,7 @@ Kickstart a career in Spatial Computing with the aid of these learning resources
 - [**Articles**](./SpatialComputing/resources.md/#-articles)
 - [**Courses**](./SpatialComputing/resources.md/#-courses)
 - [**Communities**](./SpatialComputing/resources.md/#-communities)
-- 
-- 
+
 ## 🤖 Machine Learning
 
 Access a range of materials of machine learning ranging from videos, courses, books to make you better.
