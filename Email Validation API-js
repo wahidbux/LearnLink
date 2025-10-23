@@ -1,0 +1,11 @@
+import express from "express";
+const app = express();
+app.use(express.json());
+
+app.post("/send", (req, res) => {
+  const { email, message } = req.body;
+  if (!email.includes("@")) return res.status(400).json({ message: "Invalid email" });
+  res.json({ status: "Sent", email, message });
+});
+
+app.listen(3009);
